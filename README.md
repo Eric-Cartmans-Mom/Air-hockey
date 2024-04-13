@@ -1,6 +1,6 @@
 # Air-hockey
 
-Jogo feito na engine gratuita Construct 3, feito exclusivamente para jogar no mobile, você e mais outro amigo iram disputar uma partida de air hockey! Que o melhor venca!
+Jogo feito na engine gratuita Construct 3, feito exclusivamente para jogar no mobile, você e mais outro amigo iram disputar uma partida de air hockey! Que o melhor vença!
 
 *Controles:*
 O jogo é a base de touch-screen, use seus dedos para movimentar-se
